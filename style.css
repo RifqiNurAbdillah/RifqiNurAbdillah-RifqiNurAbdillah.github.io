@@ -221,3 +221,18 @@ h2 {
   padding-left: 50px;  /* kasih jarak ke kiri */
 }
 
+.kontak a {
+  font-size: 4rem;      /* ukuran ikon */
+  margin: 0 15px;       /* jarak antar ikon */
+  color: black;         /* warna ikon */
+  text-decoration: none;
+}
+
+.kontak a:hover {
+  color: #555;          /* warna saat hover */
+}
+
+.kontak {
+  display: flex;
+  justify-content: center;  /* rata tengah */
+}
