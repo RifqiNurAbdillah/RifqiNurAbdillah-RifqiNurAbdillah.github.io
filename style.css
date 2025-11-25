@@ -113,7 +113,7 @@ h2 {
 }
 
 .kontak {
-    min-height: 100vh;
+    min-height: 50vh;
 }
 
 .navbar-brand{
@@ -234,5 +234,5 @@ h2 {
 
 .kontak {
   display: flex;
-  justify-content: center;  /* rata tengah */
+  justify-content: center;
 }
